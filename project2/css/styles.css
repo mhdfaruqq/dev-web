@@ -1,21 +1,138 @@
 /***********************BODY SELECTORS**********************/
 body {
-    background-color: #2B3467;
-    color: #FCFFE7;
+    background-color: #D5CEA3;
+    color: #1A120B;
     font-family: 'Bona Nova', serif;
     margin: 0;
 }
 
 img {
-    height: 360px;
-    width: 360px;
+    height: 12.5rem;
+    width: 12.5rem;
+    border-radius: 20px;
+}
+
+ul {
+    
+}
+
+.rapper-div {
+        background-color: #F6F1F1;
+        color: #000000;
 }
 /***********************CLASS SELECTORS**********************/
 
+.eminem-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 69rem;
+    margin-top: 13rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem;
+}
+
 .head-container {
+    background-image: url(images\headset.jpg);
     background-size: 30%;
     margin: 0%;
     text-align: center;
+}
+
+.jay-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 0.5rem;
+    margin-top: 13rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem;
+} 
+
+.jcole-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 18rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem;
+}
+
+.Kendrick-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 18rem;
+    margin-top: 25rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem
+}
+
+.rapper-div {
+    position: relative;
+    background-color: #C8DBBE;
+    max-height: 49rem;
+}
+
+.ross-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 52rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem
+}
+
+.singer-div {
+    position: relative;
+}
+
+.Tupac-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-top: 25rem;
+    margin-left: 52rem;
+    padding-bottom: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem;
+}
+
+.wayne-div {
+    background-color: #3C2A21;
+    border-radius: 0.7rem;
+    color: #E5E5CB;
+    display: inline-block;
+    height: 23rem;
+    margin-left: 35rem;
+    margin-top: 13rem;
+    padding-top: 10px;
+    position: absolute;
+    text-align: center;
+    width: 15rem;
 }
 
 /***********************ID SELECTORS**********************/
@@ -23,4 +140,8 @@ img {
 #h1-id {
     margin-top: 0;
     text-align: left;
+    background-image: url(images\headset.jpg);
+
 }
+
+
